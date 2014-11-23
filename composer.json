@@ -1,5 +1,5 @@
 {
-    "name": "rbnvrw/pico-load-plugins-composer"
+    "name": "rbnvrw/pico-load-plugins-composer",
     "type": "library",
     "description": "Automatically load Pico plugins from the Composer vendor directory.",
     "keywords": ["picocms", "composer"],
