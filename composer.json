@@ -1,3 +1,14 @@
 {
     "name": "rbnvrw/pico-load-plugins-composer"
+    "type": "library",
+    "description": "Automatically load Pico plugins from the Composer vendor directory.",
+    "keywords": ["picocms", "composer"],
+    "homepage": "http://rubenverweij.nl/",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ruben Verweij",
+            "email": "development@rubenverweij.nl"
+        }
+    ]
 }
