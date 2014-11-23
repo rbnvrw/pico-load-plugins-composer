@@ -1,7 +1,7 @@
 pico-load-plugins-composer
 ==========================
 
-Automatically load Pico plugins from the Composer `vendor` directory
+Automatically load Pico plugins from the Composer `vendor` directory. This avoids unneccesary cluttering of the `plugins` directory and loads the plugins via a helper plugin based on your config settings.
 
 ## Step 1: add this repository to your composer.json
     "repositories": [
